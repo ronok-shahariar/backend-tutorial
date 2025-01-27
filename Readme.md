@@ -1,4 +1,4 @@
-# chai aur backend series
+# backend series
 
 This is a video serie on backend with javascript
 
